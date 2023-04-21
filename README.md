@@ -5,7 +5,7 @@ mvn spring-boot:run
 Through the browser enter the address:
   http://localhost:8080/
 
-=====================================================================================================================================
+====================================================
 
 For the application to work in the war format, copy the SpringBootWeb.war file that is inside the /target folder to the Apache Tomcat/webapps folder.
 
